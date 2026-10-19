@@ -1,0 +1,11 @@
+variável_A = 30
+variável_B = 20
+variálvel_C = 10
+soma_X = variável_A + variável_B = variálvel_C
+print(f"O resultado {variável_C} é igual a subtraçãoo de {variável_A} e {variável_B})
+
+
+
+
+
+
